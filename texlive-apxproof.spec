@@ -1,6 +1,6 @@
 Name:		texlive-apxproof
 Version:	64715
-Release:	1
+Release:	2
 Summary:	Proofs in appendix
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/apxproof
