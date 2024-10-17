@@ -3,7 +3,7 @@ Version:	64715
 Release:	2
 Summary:	Proofs in appendix
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/apxproof
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/apxproof
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/apxproof.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/apxproof.doc.r%{version}.tar.xz
